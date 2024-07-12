@@ -1,0 +1,2 @@
+# -shouji-
+python
